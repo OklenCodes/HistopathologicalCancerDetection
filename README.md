@@ -15,4 +15,4 @@ https://www.qitvision.com/
 
 https://pablo-gomez.net/
 
-Andrew Lukyanenko
+Andrew Lukyanenko - https://www.kaggle.com/artgor
