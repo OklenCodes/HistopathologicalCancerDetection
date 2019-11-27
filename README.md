@@ -10,6 +10,9 @@ Keras has changed a few things within the ImageDataGenerator which is something 
 Train and Test files too large to add but they can be found on kaggle
 
 References:
+
 https://www.qitvision.com/
+
 https://pablo-gomez.net/
+
 Andrew Lukyanenko
